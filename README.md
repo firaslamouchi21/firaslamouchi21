@@ -1,30 +1,7 @@
 # Ahlan C’est FIRAS LAMOUCHI
-
----
-
-## 📊 System Overview
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=firaslamouchi21&theme=github_dark" width="100%" />
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=firaslamouchi21&theme=github-dark&hide_border=true" width="60%" />
 </p>
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=firaslamouchi21&limit=5&theme=github_dark&combine_all_yearly_contributions=true" width="80%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=firaslamouchi21&theme=github_dark" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=firaslamouchi21&theme=github_dark&utcOffset=3" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=firaslamouchi21&theme=github_dark" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=firaslamouchi21&theme=github_dark" width="49%" />
-</p>
-
 ---
 
 ## 📦 Packages & Containers
