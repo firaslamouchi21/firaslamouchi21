@@ -43,7 +43,6 @@
 | Workflow | Status |
 | :--- | :--- |
 | Job-Scraper CI | ![ci](https://img.shields.io/github/actions/workflow/status/firaslamouchi21/Job-Scraper02/ci.yml?style=flat-square&label=ci) |
-| PyPI Publish | ![publish](| PyPI Deployment | ![deployment](https://img.shields.io/github/deployments/firaslamouchi21/Job-Scraper02/pypi?label=pypi&style=flat-square) |) |
 | WhatsApp CI | ![wa-ci](https://img.shields.io/github/actions/workflow/status/firaslamouchi21/-WhatsApp-Automation-Tool/ci.yml?style=flat-square&label=ci) |
 | WhatsApp Container | ![ghcr](https://img.shields.io/github/actions/workflow/status/firaslamouchi21/-WhatsApp-Automation-Tool/publish-ghcr.yml?style=flat-square&label=container) |
 
