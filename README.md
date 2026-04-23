@@ -42,9 +42,9 @@
 
 | Workflow | Status |
 | :--- | :--- |
-| PyPI Publish | ![publish](https://img.shields.io/github/actions/workflow/status/firaslamouchi21/Job-Scraper02/python-publish.yml?style=flat-square&label=publish) |
-| Docker Build | ![docker](https://img.shields.io/github/actions/workflow/status/firaslamouchi21/Job-Scraper02/docker-image.yml?style=flat-square&label=docker) |
-| WhatsApp Bot | ![bot](https://img.shields.io/github/actions/workflow/status/firaslamouchi21/-WhatsApp-Automation-Tool/main.yml?style=flat-square&label=bot) |
+| PyPI Publish | ![publish](https://img.shields.io/github/actions/workflow/status/firaslamouchi21/Job-Scraper02/python-publish.yml?label=publish&style=flat-square) |
+| Docker Build | ![docker](https://img.shields.io/github/actions/workflow/status/firaslamouchi21/Job-Scraper02/docker-image.yml?label=docker&style=flat-square) |
+| WhatsApp Bot | ![bot](https://img.shields.io/github/actions/workflow/status/firaslamouchi21/-WhatsApp-Automation-Tool/main.yml?label=bot&style=flat-square) |
 
 ## Contact
 firaslamou@gmail.com
