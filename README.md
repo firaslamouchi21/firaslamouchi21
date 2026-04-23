@@ -1,4 +1,4 @@
-# Ahlan C’est FIRAS LAMOUCHI
+# Ahlan C’est Firas
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=firaslamouchi21&theme=github-dark&hide_border=true" width="60%" />
 </p>
