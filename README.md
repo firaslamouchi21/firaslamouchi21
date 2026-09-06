@@ -30,9 +30,3 @@
 | WhatsApp CI | ![wa-ci](https://img.shields.io/github/actions/workflow/status/firaslamouchi21/-WhatsApp-Automation-Tool/ci.yml?style=flat-square&label=ci) |
 | WhatsApp Container | ![ghcr](https://img.shields.io/github/actions/workflow/status/firaslamouchi21/-WhatsApp-Automation-Tool/publish-ghcr.yml?style=flat-square&label=container) |
 
----
-
-## ⏱ WakaTime
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
