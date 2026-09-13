@@ -4,7 +4,7 @@
 </p>
 ---
 
-## 📦 Packages & Containers
+## Packages & Containers
 
 - **job-scraper02 (PyPI)**  
   https://pypi.org/project/job-scraper02  
@@ -22,7 +22,7 @@
 
 ---
 
-## 🚀 CI / CD Pipelines
+## CI / CD Pipelines
 
 | Workflow | Status |
 | :--- | :--- |
