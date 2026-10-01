@@ -1,7 +1,6 @@
 # Ahlan, C'est Firas 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=firaslamouchi21&theme=github-dark&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=firaslamouchi21&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true" width="49%" />
 </p>
 
 ---
